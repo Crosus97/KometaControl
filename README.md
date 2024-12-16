@@ -2,7 +2,7 @@
 
 KometaControl is a tool designed to manage and schedule script executions on Windows. With support for customizable scheduling and background execution, it is an ideal solution for automating repetitive tasks and keeping control over critical processes.
 
-![iconKM](iconKM.png)
+![iconKM](https://github.com/Crosus97/KometaControl/blob/main/iconKC.png)
 
 ## Features
 
