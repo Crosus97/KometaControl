@@ -28,12 +28,12 @@ KometaControl es una herramienta diseñada para gestionar y ejecutar scripts de 
 
 ## Documentación
 
-Para más detalles sobre cómo configurar y usar KometaControl, visita la [documentación oficial](https://kometa.wiki/en/latest/).
+Para más detalles sobre cómo configurar y usar Kometa, visita la [documentación oficial](https://kometa.wiki/en/latest/).
 
 ## Créditos
 
-- **Autor**: Tu Nombre
-- **Página de Proyecto**: [GitHub - KometaControl](https://github.com/tu-usuario/kometacontrol)
+- **Autor**: Crosus97
+- **Página de Proyecto**: [GitHub - KometaControl](https://github.com/Crosus97/kometacontrol)
 
 ## Licencia
 
